@@ -77,10 +77,7 @@ group listing.
 | Birth Year   |                  |
 | Parent Name  |                  |
 | Parent Email |                  |
-|--------------|------------------|
-| Group        |   <select>       |
-|              |     <options/>   |
-|              |   </select>      |
+| Group        |   options        |
 |--------------|------------------|
 | Add          |                  |
 
